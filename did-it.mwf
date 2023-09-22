@@ -1,0 +1,17 @@
+primary: #B1B2FF
+secondary: #AAC4FF
+heading: #D2DAFF
+text: #EEF1FF
+
+#TODO user sign in and sign up page
+#TODO reminders on phone, email, optional{whatsapp, telegram}
+#TODO find quotes for building habits
+#TODO profile to display user stats
+#TODO database to store user stats, diaries and reminders
+#TODO add description to tasks
+#TODO allow users to upload profile images, share their stats and switch between light and dark modes
+#TODO allow users to fully customise colours on the site in settings
+#TODO add easter eggs 
+#TODO diary for taking notes
+#TODO send user quotes before todo time and after it has been completed
+#TODO turn did-it to a PWA
